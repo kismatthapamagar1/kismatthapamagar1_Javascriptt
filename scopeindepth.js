@@ -37,8 +37,9 @@ function addone(num){   //function
 }
 console.log(addone(5))
 
-addTwo(4)
+
 const addTwo=function(num)//expression not just function
 {
     return num+2
 }
+addTwo(4)
